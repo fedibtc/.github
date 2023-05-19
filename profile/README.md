@@ -1,7 +1,11 @@
 ## About Fedi
 
-[Fedi](https://fedi.xyz) is building a Bitcoin wallet for the masses with a user experience competitive with current custodial solutions while minimizing trust in third parties. 
+Fedi creates a new way for communities and organisations to secure and use their money and data through a Federated Operating System (OS). 
 
-It's built on [Fedimint](https://github.com/fedimint/minimint), a free and open source protocol which scales Bitcoin and Lightning while providing users with good default privacy. Our initial focus will be deploying Fedi to underserved markets in the Global South. 
+We connect the most fundamental human technology — community — with freedom technologies, like Bitcoin, to level up humanity.
 
-Check out our job listings on [Bitcoiner Jobs](https://bitcoinerjobs.com/company/fedi) and [Please reach out](mailto:info@fedi.xyz) if you'd like to join [Obi Nwosu](https://twitter.com/obi), [Eric Sirion](https://github.com/elsirion), and [Justin Moon](https://github.com/justinmoon) on this mission.
+It's built on Fedimint, a modular open-source protocol to custody and transact bitcoin and more in a community context, built on a strong foundation of privacy.
+
+Check out our website: [https://fedi.xyz](https://fedi.xyz)
+
+Check out our job listings on [Bitcoiner Jobs](https://bitcoinerjobs.com/company/fedi) and [Please reach out](mailto:info@fedi.xyz) if you'd like to join our mission.
